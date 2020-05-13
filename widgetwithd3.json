@@ -19,7 +19,7 @@
 		{
 			"kind": "styling",
 			"tag": "sap-widgetwithd3-aps",
-			"url": "https://sylvainparcollet.github.io/D3Widget/aps_webcomponents.js",
+			"url": "https://sylvainparcollet.github.io/D3Widget/aps_webcomponent.js",
             "integrity": "",
             "ignoreIntegrity" : true
 		}
