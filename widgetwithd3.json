@@ -12,14 +12,14 @@
 		{
 			"kind": "main",
 			"tag": "sap-widgetwithd3",
-			"url": "https://davidhstocker.github.io/SACWidgetWithD3//webcomponents.js",
+			"url": "https://github.com/SylvainParcollet/D3Widget/blob/master/webcomponents.js",
             "integrity": "",
             "ignoreIntegrity" : true
 		},
 		{
 			"kind": "styling",
 			"tag": "sap-widgetwithd3-aps",
-			"url": "https://github.com/davidhstocker/SACWidgetWithD3/aps_webcomponent.js",
+			"url": "https://github.com/SylvainParcollet/D3Widget/blob/master/aps_webcomponents.js",
             "integrity": "",
             "ignoreIntegrity" : true
 		}
