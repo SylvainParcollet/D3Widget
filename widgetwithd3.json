@@ -12,7 +12,7 @@
 		{
 			"kind": "main",
 			"tag": "sap-widgetwithd3",
-			"url": "https://sylvainparcollet.github.io/D3Widget/webcomponent.js",
+			"url": "https://sylvainparcollet.github.io/D3Widget/webcomponents.js",
             "integrity": "",
             "ignoreIntegrity" : true
 		},
