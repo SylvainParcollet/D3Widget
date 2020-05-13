@@ -7,7 +7,7 @@
 	"name": "D3 Widget",
 	"newInstancePrefix": "WidgetWithD3",
 	"description": "A template widget with D3",
-	"icon": "",
+	"icon": "https://github.com/SylvainParcollet/D3Widget/blob/master/D3_Icon.png",
 	"webcomponents": [
 		{
 			"kind": "main",
