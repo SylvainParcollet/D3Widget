@@ -1,0 +1,33 @@
+{
+	"id": "d3.demok",
+	"version": "1.0.0",
+	"name": "Demo D3",
+	"description": "D3 Demo",
+	"newInstancePrefix": "Demo",
+	"vendor": "Demo",
+	"eula": "EULA",
+	"license": "1.0",
+	"webcomponents": [
+		{
+			"kind": "main",
+			"tag": "d3-demo-main",
+			"url": "https://sylvainparcollet.github.io/D3Widget/Chart/chart.js",
+			"integrity": "",
+			"ignoreIntegrity": true
+		},
+		{
+			"kind": "styling",
+			"tag": "com-demok-box-sps",
+			"url": "https://sylvainparcollet.github.io/SACGaugeWidget/boxk_sps.js",
+			"integrity": "",
+			"ignoreIntegrity": true
+		},
+		{
+			"kind": "builder",
+			"tag": "d3-demo-chart",
+			"url": "https://sylvainparcollet.github.io/D3Widget/Chart/chart.js",
+			"integrity": "",
+			"ignoreIntegrity": true
+		}
+	]
+}
